@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Linq;
-using System.Sofology.Taskds;
+using System.Maritech.Taskds;
 
 namespace CodeSecurityMonitor.Logic
 {
