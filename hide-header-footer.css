@@ -1,3 +1,26 @@
 salesorderprocessing.sofology.co.uk/api/log
 
 @sofology/sofologycomponentsw
+
+
+"WebSite1": "(?:api.g.sofology.co.uk/swkcommercewebservices)",
+      "WebSite2": "(?:godelcheckout.live.sofology.co.uk)",
+      "WebSite3": "(?:api.g.sofology.co.uk/swkcommercewebservices)",
+      "WebSite4": "(?:custex.sofology.co.uk)",
+      "WebSite5": "(?:salesorderprocessing.sofology.co.uk)",
+      "WebSite6": "(?:salesorderprocessing.sofology.co.uk/api/log)",
+      "WebSite7": "(?:checkout.live.sofology.co.uk/api/rabbit/Basket)",
+      "namespace1": "(?:using(?:.+)?(?:[Ss]ofology)(?:.+);)",
+      "namespace2": "(?:import(?:.+)?(?:[Ss]ofology))",
+      "namespace3": "(?:GlanceIntegrationApi)",
+      "namespace4": "(?:[Ss]ofology.[Cc]ore)",
+      "namespace5": "(?:[Ss]ofology.[Ss]ervice)",
+      "specific word1": "(?:sofashield)",
+      "specific word2": "(?:sofaglide)",
+      "specific word3": "(?:sofaform)",
+      "DbServerName1": "(?:[Mm]ssql.live.[Ss]ofology.local)",
+      "DbServerName2": "(?:[Ss]ofology.local)",
+      "ci-cd file": "(?:[Rr]egistry.[Ss]ofology.[Ll]ocal)",
+      "Logger": "(?:[Ll]ogs.[Ss]ofology.[Ll]ocal )",
+      "npm package": "(?:@sofology/sofologycomponents)",
+      "method": "(?:BasketCheckoutHelper.IsCheckoutPage())"
